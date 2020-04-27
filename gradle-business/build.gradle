@@ -1,0 +1,13 @@
+plugins {
+    id 'java-library'
+}
+
+dependencies {
+    api 'org.mybatis.spring.boot:mybatis-spring-boot-starter:2.0.1'
+    api 'org.mybatis.spring.boot:mybatis-spring-boot-starter-test:2.0.1'
+
+    api 'com.zaxxer:HikariCP:3.4.3'
+    api 'mysql:mysql-connector-java:5.1.47'
+
+    api project(':gradle-common')
+}

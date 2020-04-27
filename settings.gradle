@@ -8,3 +8,8 @@
  */
 
 rootProject.name = 'gradle-learning'
+include 'gradle-docs'
+include 'gradle-common'
+include 'gradle-web'
+include 'gradle-business'
+
