@@ -1,5 +1,5 @@
 # gradle-learning
-gradle-multi-module的示例小程序
+gradle学习的示例程序，以及学习文档
 
 ## Development
 ### building
@@ -11,7 +11,7 @@ gradle-multi-module的示例小程序
 ./gradlew :gradle-web:bootRun
 ```
 
-## 文档目录
+## Docs
 [gradle快速上手](gradle-docs/src/docs/gradle快速上手.md)
 
 [build.gradle配置文件解读](gradle-docs/src/docs/build.gradle配置文件解读.md)

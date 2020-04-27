@@ -1,4 +1,5 @@
-已知： 模块`gradle-web`依赖模块`gradle-business`
+已知：<br>
+模块`gradle-web`需要依赖模块`gradle-business`
 
 1.在`gradle-web`模块中的`build.gradle`加上
 ```$xslt
